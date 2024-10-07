@@ -182,11 +182,11 @@ button:hover {
     }
 
     .introduction{
-        height: 30%;
+        height: 70%;
     }
 
     form{
-        height: 60%;
+        height: 100%;
     }
 
     .name-and-email, .password-and-pokemon {
