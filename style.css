@@ -182,18 +182,17 @@ button:hover {
     }
 
     .introduction{
-        height: 70%;
+        height: 50%;
     }
 
     form{
-        height: 100%;
+        height: 45%;
     }
 
     .name-and-email, .password-and-pokemon {
         width: 100%;
         height: 80%;
         flex-direction: column;
-        background-color: skyblue;
     }
 
     input{
